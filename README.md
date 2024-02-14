@@ -62,4 +62,4 @@ Por último, cada vez que un contrato sea totalmente liquidado, o bien pase su f
 
 ### ***Se cuenta con la siguiente interfaz:***
 
-![Interfaz del MailSender]([//www.plantuml.com/plantuml/png/SoWkIImgAStDuShCAqajIajCJbNmJSpC2KxDIqajKgZcAWOoD19JKefIYtKKYakJibAJItGKal9JAZMvQhaSWB8WpG00](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuShCAqajIajCJbNmJSpC2KxDIqajKgZcAWOoD19JKefIYtKKYakJibAJItGKal9JAZMvQhaSWB8WpG00)https://www.plantuml.com/plantuml/png/SoWkIImgAStDuShCAqajIajCJbNmJSpC2KxDIqajKgZcAWOoD19JKefIYtKKYakJibAJItGKal9JAZMvQhaSWB8WpG00)
+![Interfaz del MailSender](www.plantuml.com/plantuml/png/SoWkIImgAStDuShCAqajIajCJbNmJSpC2KxDIqajKgZcAWOoD19JKefIYtKKYakJibAJItGKal9JAZMvQhaSWB8WpG00](https://www.plantuml.com/plantuml/png/SoWkIImgAStDuShCAqajIajCJbNmJSpC2KxDIqajKgZcAWOoD19JKefIYtKKYakJibAJItGKal9JAZMvQhaSWB8WpG00)https://www.plantuml.com/plantuml/png/SoWkIImgAStDuShCAqajIajCJbNmJSpC2KxDIqajKgZcAWOoD19JKefIYtKKYakJibAJItGKal9JAZMvQhaSWB8WpG00)
